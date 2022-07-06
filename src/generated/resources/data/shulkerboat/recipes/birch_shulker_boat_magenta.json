@@ -1,0 +1,14 @@
+{
+  "type": "shulkerboat:shulker_boat_recipe",
+  "ingredients": [
+    {
+      "item": "minecraft:magenta_shulker_box"
+    },
+    {
+      "item": "minecraft:birch_boat"
+    }
+  ],
+  "result": {
+    "item": "shulkerboat:birch_shulker_boat_magenta"
+  }
+}

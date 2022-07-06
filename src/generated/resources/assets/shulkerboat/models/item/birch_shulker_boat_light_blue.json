@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/birch_chest_boat",
+  "textures": {
+    "layer1": "shulkerboat:item/shulker_layer_light_blue"
+  }
+}

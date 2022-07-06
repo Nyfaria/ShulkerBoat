@@ -1,0 +1,14 @@
+{
+  "type": "shulkerboat:shulker_boat_recipe",
+  "ingredients": [
+    {
+      "item": "minecraft:gray_shulker_box"
+    },
+    {
+      "item": "minecraft:dark_oak_boat"
+    }
+  ],
+  "result": {
+    "item": "shulkerboat:dark_oak_shulker_boat_gray"
+  }
+}

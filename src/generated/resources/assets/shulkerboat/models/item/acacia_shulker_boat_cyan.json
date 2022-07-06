@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/acacia_chest_boat",
+  "textures": {
+    "layer1": "shulkerboat:item/shulker_layer_cyan"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "shulkerboat:shulker_boat_recipe",
+  "ingredients": [
+    {
+      "item": "minecraft:yellow_shulker_box"
+    },
+    {
+      "item": "minecraft:jungle_boat"
+    }
+  ],
+  "result": {
+    "item": "shulkerboat:jungle_shulker_boat_yellow"
+  }
+}
